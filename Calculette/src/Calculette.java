@@ -1,4 +1,4 @@
-
+/** C'est moi qui l'ai fait */
 public class Calculette {
 	private Double operande1 = 0.0;
 	private Double operande2 = 0.0;
